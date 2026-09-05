@@ -9,7 +9,7 @@
 import type { LabResult, PatientIntake } from "../types/clinical";
 
 /** Base URL of the MedLens FastAPI server. */
-export const API_BASE_URL = "http://localhost:8000";
+export const API_BASE_URL = "";
 
 /**
  * Standard MedLens disclaimer appended by the backend (backend/summarizer.py).
