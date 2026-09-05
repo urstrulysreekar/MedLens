@@ -1,0 +1,8 @@
+Patient: Jane Doe | Age: 42 | Date: 2026-03-15
+-------------------------------------------------
+Complete Blood Count (CBC)
+WBC: 14.5 x10^3/uL       (Ref: 4.5 - 11.0)
+RBC: 4.20 x10^6/uL       (Ref: 4.00 - 5.20)
+Hemoglobin: 10.8 g/dL    (Ref: 12.0 - 15.5)
+Platelets: 210 x10^3/uL  (Ref: 150 - 450)
+Ferritin: 32 ng/mL       (Ref: Not Stated)
